@@ -3,7 +3,7 @@
 ![](https://imgs.search.brave.com/kJxuALxSWYk1mnYxoMmeM_k0L6Rl40pFPWmOssedx9Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb254/LnJlYWR0aGVkb2Nz/LmlvL2VuL2xhdGVz/dC9faW1hZ2VzL01O/SVNUXzZfMC5wbmc)
 # Mnist Prediction From Scratch
 
-<a href="https://githubtocolab.com/CYCNO/mnist-from-scratch/blob/main/src/main.ipynb">
+<a href="https://githubtocolab.com/CYCNO/Mnist-From-Scratch/blob/main/src/main.ipynb">
 <img src="https://img.shields.io/badge/open%20in-googlecolab-red?logoColor=orange&logo=googlecolab&style=for-the-badge">
 </a>
 </div>
@@ -60,14 +60,14 @@ dB[i] = (1 / m) * sum(dZ[i])                        i = current layer
 
 ## Training
 10,000 sample for 1000 epochs gives results as follow
-|Hidden Layer Neurons|learning rate|accuracy|
+|Hidden Layer Neurons|learning rate|accuracy (testing)|
 |---------|-|-----|
 | 10| 0.2| 91.0%|
 | 16| 0.2| 92.2%|
 | 32| 0.3| 93.7%|
 | 64| 0.3| 94.3%|
 
-> the accuracy is measured on testing data, that the model have never seen before
+> the accuracy is measured data that model have never seen before
 
 so as we can observer that we increase in amount of neurons in Hidden Layer, also increase the accuracy, there are also other ways to increase accuracy, like increasing learning rate or increasing its epochs.
 
