@@ -69,7 +69,7 @@ dB[i] = (1 / m) * sum(dZ[i])                        i = current layer
 
 > the accuracy is measured on data that model have never seen before
 
-so as we can observer that we increase in amount of neurons in Hidden Layer, also increase the accuracy, there are also other ways to increase accuracy, like increasing learning rate or increasing its epochs.
+so as we can observe that increase in amount of neurons in Hidden Layer, also increase the accuracy, there are also other ways to increase accuracy, like increasing learning rate or increasing its epochs.
 
 ## Ending Notes
 you can also tinker little bit of model of mnist, since i have try to make it as customizable as possible, you can change its layers, its neurons, epochs or learning rate, as per your need
