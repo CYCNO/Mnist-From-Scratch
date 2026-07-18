@@ -3,7 +3,7 @@
 ![](https://imgs.search.brave.com/kJxuALxSWYk1mnYxoMmeM_k0L6Rl40pFPWmOssedx9Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb254/LnJlYWR0aGVkb2Nz/LmlvL2VuL2xhdGVz/dC9faW1hZ2VzL01O/SVNUXzZfMC5wbmc)
 # Mnist Prediction From Scratch
 
-<a href="https://github.com/CYCNO/Mnist-From-Scratch/blob/main/main.ipynb">
+<a href="https://githubtocolab.com/CYCNO/Mnist-From-Scratch/blob/main/main.ipynb">
 <img src="https://img.shields.io/badge/open%20in-googlecolab-red?logoColor=orange&logo=googlecolab&style=for-the-badge">
 </a>
 </div>
