@@ -27,8 +27,8 @@ It uses 2 hidden layers of 10 neurons each, and the architecture looks like
 
 ```
 Layer 0 (input layer): 28x28 = 784 neurons each for the pixels of the image
-Layer 1 (First Hidden Layer): 16 neurons
-Layer 2 (Second Hidden Layer): 16 neurons again.
+Layer 1 (First Hidden Layer):  10 neurons
+Layer 2 (Second Hidden Layer): 10 neurons again.
 Layer 3 (Output Layer): 10 outputs for values ranging from 0-9 
 ```
 
