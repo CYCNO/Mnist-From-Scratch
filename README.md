@@ -48,7 +48,7 @@ softmax(S) : e^(x) / sum(e^(x))
 ```
 
 ## Backpropagation
-To find the gradient of each parameter, it uses backprop, it find derivative(d_) for 3 different parameter, Z (the value of the neuron), W (weights) and B (biases). later this gradients are used to help in updating the neurons
+To find the gradient of each parameter, it uses backprop, it find derivative(d_) for 3 different parameter, Z (the value of the neuron), W (weights) and B (biases). later this gradients are used to help in updating the neurons parameters 
 
 The math behind it (spoiler: chain rule)
 ```sh
