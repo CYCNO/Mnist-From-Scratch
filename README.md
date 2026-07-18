@@ -67,7 +67,7 @@ dB[i] = (1 / m) * sum(dZ[i])                        i = current layer
 | 32| 0.3| 93.7%|
 | 64| 0.3| 94.3%|
 
-> the accuracy is measured data that model have never seen before
+> the accuracy is measured on data that model have never seen before
 
 so as we can observer that we increase in amount of neurons in Hidden Layer, also increase the accuracy, there are also other ways to increase accuracy, like increasing learning rate or increasing its epochs.
 
